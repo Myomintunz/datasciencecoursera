@@ -1,0 +1,14 @@
+---
+title: "datasciencecoursera"
+author: "nyinyi"
+date: "10/5/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown file 
